@@ -1,0 +1,43 @@
+*{margin:0px;padding:0px;}
+
+
+
+body {
+	font-family: Helvetica, Arial, sans-serif;
+
+}
+
+h1, h2 {
+	color: #009C48;
+	font-family: arial;
+}
+
+#navbar li {
+	list-style: none;
+	display: inline;
+}
+
+#navbar ul{
+	padding-left: 100px;
+}
+
+#navbar li a {
+	color: white;
+	text-decoration: none;
+}
+
+#navbar {
+	background-color: #009C48;
+	height: 50px;
+	padding-top: 20px;
+}
+
+
+#container, #footer {
+	padding-left: 100px;
+}
+
+#footer {
+	background-image: url("img/html.jpg");
+	display: flex;
+}
